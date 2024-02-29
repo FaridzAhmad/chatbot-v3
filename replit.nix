@@ -15,4 +15,7 @@
   env ={
     LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [pkgs.libuuid];
   };
+permittedInsecurePackages = [
+    "nodejs-16.20.0"
+  ];
 }
