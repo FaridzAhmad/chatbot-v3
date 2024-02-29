@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["62895426290208@s.whatsapp.net"],
+    "ownerName": "_abcrd",
+    "instagram" : "https://instagram.com/_abcrd",
+    "gcwa" : "",
+    "botName": "jemBOT",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
